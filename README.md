@@ -45,7 +45,7 @@ When a user selects a song, the system returns the **top N most similar songs** 
 
 ## 📂 Project Structure
 music-recommendation-system/
-'''
+```text
 │
 ├── data/
 │ └── songs.csv
@@ -54,9 +54,11 @@ music-recommendation-system/
 ├── model.py
 ├── requirements.txt
 └── README.md
-'''
-Install dependencies
-pip install -r requirements.txt
+```
+## Install dependencies
 
-3️⃣ Run the application
-streamlit run app.py
+- pip install -r requirements.txt
+
+## 3️⃣ Run the application
+
+- streamlit run app.py
